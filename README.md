@@ -28,7 +28,7 @@ Hey there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm cur
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EkaaPrawiraa&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=EkaaPrawiraa&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=EkaaPrawiraa&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Eka's%20Stats" alt="GitHub Stats">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=EkaaPrawiraa&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Eka's%20Stats" alt="GitHub Stats"> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkaaPrawiraa&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EkaaPrawiraa&theme=dracula&hide_border=false" alt="GitHub Stats streak">
 <p>

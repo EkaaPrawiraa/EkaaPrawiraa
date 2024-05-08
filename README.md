@@ -2,7 +2,7 @@
 
 Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on an exhilarating journey through the world of Informatics at ITB. Every tech-related thing going on around me always piques my interest and gets me excited. That curiosity is what brought me here.
 
-## 💻 My Tech Stack
+## My Tech Stack
 
 ### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
@@ -24,7 +24,7 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🏆 My Github Stats
+## My Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ekaaprawiraa&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ekaaprawiraa&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
@@ -33,7 +33,7 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaaprawiraa&theme=dracula&hide_border=false" alt="GitHub Stats streak">
 <p>
 
-## ✨ Find me on social media:
+## Find me on:
   <p align = "center">
 <a href="https://www.linkedin.com/in/mohammad-nugraha-eka-prawira-8440b9149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ekaaprawira " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>

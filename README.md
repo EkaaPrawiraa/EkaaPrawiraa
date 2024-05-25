@@ -29,7 +29,7 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=ekaaprawiraa&show_icons=true&count_private=true&theme=nightfox&include_all_commits=true&custom_title=Eka's%20Stats" alt="GitHub Stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaaprawiraa&langs_count=8&layout=compact&theme=nightfox&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages" alt="GitHub Stats Language">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=dracula&mode=weekly" alt="GitHub Stats streak">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=catppuccin-latte&mode=weekly" alt="GitHub Stats streak">
 <p>
 
 

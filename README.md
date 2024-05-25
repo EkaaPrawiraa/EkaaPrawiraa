@@ -32,7 +32,7 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaaprawiraa&theme=dracula&hide_border=false" alt="GitHub Stats streak">
 <p>
 
-[![Eka's GitHub stats](https://github-readme-stats.vercel.app/api?EkaaPrawiraa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Eka's GitHub stats](https://github-readme-stats.vercel.app/api?EkaaPrawiraa=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EkaaPrawiraa/EkaaPrawiraa/))
 
 ## Find me on:
   <p align = "center">

@@ -32,6 +32,8 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaaprawiraa&theme=dracula&hide_border=false" alt="GitHub Stats streak">
 <p>
 
+[![Eka's GitHub stats](https://github-readme-stats.vercel.app/api?EkaaPrawiraa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Find me on:
   <p align = "center">
 <a href="https://www.linkedin.com/in/mohammad-nugraha-eka-prawira-8440b9149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

@@ -29,10 +29,10 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=ekaaprawiraa&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Eka's%20Stats" alt="GitHub Stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaaprawiraa&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages" alt="GitHub Stats Language">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaaprawiraa&theme=dracula&hide_border=false" alt="GitHub Stats streak">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=nightfox&mode=weekly" alt="GitHub Stats streak">
 <p>
 
-[![Eka's GitHub stats](https://github-readme-stats.vercel.app/api?EkaaPrawiraa=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EkaaPrawiraa/EkaaPrawiraa/))
+
 
 ## Find me on:
   <p align = "center">

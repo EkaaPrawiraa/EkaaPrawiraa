@@ -25,7 +25,7 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## My Github Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OrdinaryAzazel&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ekaaprawiraa&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ekaaprawiraa&margin-w=15&column=8&theme=nightfox)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=ekaaprawiraa&show_icons=true&count_private=true&theme=nightfox&include_all_commits=true&custom_title=Eka's%20Stats" alt="GitHub Stats">

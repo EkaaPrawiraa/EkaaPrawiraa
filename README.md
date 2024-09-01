@@ -54,6 +54,7 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ekaaPrawiraa&theme=catppuccin-latte&mode=weekly" alt="GitHub Stats streak">
 <p> -->
 <p align = "center">
+ <img src="https://github-readme-stats.vercel.app/api?username=ekaaPrawiraa">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaaprawiraa&langs_count=8&layout=compact&theme=nightfox&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ekaaPrawiraa&theme=catppuccin-latte&mode=weekly" alt="GitHub Stats streak">
 <p>

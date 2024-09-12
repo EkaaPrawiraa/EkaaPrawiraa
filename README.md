@@ -64,7 +64,7 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
 ## Find me on:
   <p align = "center">
 <a href="https://www.linkedin.com/in/mohammad-nugraha-eka-prawira-8440b9149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ekaaprawira " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/ekaaprawira " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/zz92hobng31qs183h9wfw7p6j?si=MOswm5p_RGW-CX1dzKKvqQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:mnugrahaekaprawira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=EkaaPrawiraa&color=red&style=for-the-badge"/>

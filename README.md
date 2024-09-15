@@ -2,6 +2,9 @@
 
 Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on an exhilarating journey through the world of Informatics at ITB. Every tech-related thing going on around me always piques my interest and gets me excited. That curiosity is what brought me here.
 
+## My Portofolio
+![EkaaPrawira's Porto](https://ekaaprawiraa.vercel.app)
+
 ## My Tech Stack
 
 ### Still Learning Programming Language 

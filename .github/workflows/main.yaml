@@ -17,9 +17,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Debug repository owner
-        run: echo "Repository owner: ${{ github.repository_owner }}"
-      
       - name: Create dist directory
         run: mkdir -p dist
 

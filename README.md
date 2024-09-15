@@ -1,4 +1,7 @@
-# 👋 Hi My name is Eka
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bakbak+One&size=30&duration=8000&pause=1000&color=fff&center=true&vCenter=true&width=500&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Eka+Prawira" alt="Typing SVG" /></a>
+</h1>
+
 
 Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on an exhilarating journey through the world of Informatics at ITB. Every tech-related thing going on around me always piques my interest and gets me excited. That curiosity is what brought me here.
 

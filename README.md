@@ -5,7 +5,7 @@ Hi there! My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on a
 <!--## My Portofolio
 <a href="https://ekaaprawiraa.vercel.app" target="_blank">ekaaprawiraa.vercel.app</a>-->
 
-## My Tech Stack
+## 💻 My Tech Stack
 
 ### Programming Language I'm Learning 
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)

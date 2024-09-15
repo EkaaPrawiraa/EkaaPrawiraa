@@ -62,6 +62,10 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ekaaPrawiraa&theme=catppuccin-latte&mode=weekly" alt="GitHub Stats streak">
 <p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## Find me on:

@@ -16,12 +16,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-     
+      
+      - name: Debug repository owner
+        run: echo "Repository owner: ${{ github.repository_owner }}"
+      
+      - name: Create dist directory
+        run: mkdir -p dist
 
       - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name:  ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

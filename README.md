@@ -51,7 +51,7 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## My Github Stats
+## 📈 My Github Stats
 <!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ekaaprawiraa&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ekaaprawiraa&margin-w=15&column=8&theme=nightfox)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
@@ -64,12 +64,12 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaaprawiraa&langs_count=8&layout=compact&theme=nightfox&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ekaaPrawiraa&theme=catppuccin-latte&mode=weekly" alt="GitHub Stats streak">
 <p>
+<div align="center">
+ <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+</div>
 
- <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake.svg">
 
-
-
-## Find me on:
+## ✨ Find me on:
   <p align = "center">
 <a href="https://www.linkedin.com/in/mohammad-nugraha-eka-prawira-8440b9149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ekaaprawira " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -77,3 +77,8 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
 <a href="mailto:mnugrahaekaprawira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=EkaaPrawiraa&color=red&style=for-the-badge"/>
   </p>
+
+## 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bakbak+One&size=30&duration=8000&pause=1000&color=fff&center=true&vCenter=true&width=500&height=100&lines=Thanks+for+Visiting;I'm+Always+Open+for+Collaboration" alt="Typing SVG" /></a>
+</h1>

@@ -1,17 +1,12 @@
 name: Generate Snake
 
 on:
-
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  workflow_dispatch:
-  
+    - cron: "0 */24 * * *"  
+  workflow_dispatch: 
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   build:
@@ -19,8 +14,10 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: generate the snake files in '.dist'
+      - name: Generate the snake files in '.dist'
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,11 +25,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-     - name: Show Build Status
-       run: git status
+      - name: Show Build Status
+        run: git status
 
-
-      - name: push new files to the output branch
+      - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

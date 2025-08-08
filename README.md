@@ -3,11 +3,12 @@
 </h1>
 
 
-My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on an exhilarating journey through the world of Informatics at Institut Teknologi Bandung, Indonesia. Every tech-related thing going on around me always piques my interest and gets me excited. That curiosity is what brought me here.
+My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I’m a final year Informatics Engineering student at Institut Teknologi Bandung with a passion for backend development. I’m full of wild ideas and software engineering is how I turn them into reality.
 
 <!--## My Portofolio
 <a href="https://ekaaprawiraa.vercel.app" target="_blank">ekaaprawiraa.vercel.app</a>-->
 
+ <!-- 
 ## 💻 My Tech Stack
 
 ### Programming Language I'm Learning 
@@ -24,6 +25,8 @@ My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I'm on an exhilara
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+ -->
  <!--  https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B
  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
  https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
@@ -41,7 +44,7 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
 
 
 
-
+ <!-- 
 
 ### My Currently List to Learn!
 
@@ -50,6 +53,7 @@ https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoC
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+-->
 
 ## 📈 My Github Stats
 <!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ekaaprawiraa&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)

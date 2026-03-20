@@ -3,7 +3,7 @@
 </h1>
 
 
-My name is Mohammad Nugraha Eka Prawira, you can call me Eka. I’m a final year Informatics Engineering student at Institut Teknologi Bandung with a passion for backend development. I’m full of wild ideas and software engineering is how I turn them into reality.
+My name is Eka. I’m a final year Informatics Engineering student at Institut Teknologi Bandung with a passion for backend development. I’m full of wild ideas and software engineering is how I turn them into reality.
 
 <!--## My Portofolio
 <a href="https://ekaaprawiraa.vercel.app" target="_blank">ekaaprawiraa.vercel.app</a>-->

@@ -16,53 +16,77 @@ I like turning wild ideas into working systems. Right now I'm building document-
 ## 🚀 What I've Built
 
 <p align="center">
-<a href="https://github.com/EkaaPrawiraa/DDD-Go-Template"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=DDD-Go-Template&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="DDD-Go-Template"/><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=DDD-Go-Template&theme=default&hide_border=true#gh-light-mode-only" alt="DDD-Go-Template"/></a>
-<a href="https://github.com/EkaaPrawiraa/ChainPermit"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=ChainPermit&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="ChainPermit"/><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=ChainPermit&theme=default&hide_border=true#gh-light-mode-only" alt="ChainPermit"/></a>
-<a href="https://github.com/EkaaPrawiraa/MyChatBot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=MyChatBot&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="MyChatBot"/><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=MyChatBot&theme=default&hide_border=true#gh-light-mode-only" alt="MyChatBot"/></a>
-<a href="https://github.com/EkaaPrawiraa/TaniKuy"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=TaniKuy&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="TaniKuy"/><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=TaniKuy&theme=default&hide_border=true#gh-light-mode-only" alt="TaniKuy"/></a>
-<a href="https://github.com/EkaaPrawiraa/S.P.A.R.T.A"><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=S.P.A.R.T.A&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="S.P.A.R.T.A"/><img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=S.P.A.R.T.A&theme=default&hide_border=true#gh-light-mode-only" alt="S.P.A.R.T.A"/></a>
+<a href="https://github.com/EkaaPrawiraa/DDD-Go-Template">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=DDD-Go-Template&theme=tokyonight&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=DDD-Go-Template&theme=default&hide_border=true" alt="DDD-Go-Template"/>
+</picture>
+</a>
+<a href="https://github.com/EkaaPrawiraa/ChainPermit">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=ChainPermit&theme=tokyonight&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=ChainPermit&theme=default&hide_border=true" alt="ChainPermit"/>
+</picture>
+</a>
+<a href="https://github.com/EkaaPrawiraa/MyChatBot">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=MyChatBot&theme=tokyonight&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=MyChatBot&theme=default&hide_border=true" alt="MyChatBot"/>
+</picture>
+</a>
+<a href="https://github.com/EkaaPrawiraa/TaniKuy">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=TaniKuy&theme=tokyonight&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=TaniKuy&theme=default&hide_border=true" alt="TaniKuy"/>
+</picture>
+</a>
+<a href="https://github.com/EkaaPrawiraa/S.P.A.R.T.A">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=S.P.A.R.T.A&theme=tokyonight&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=S.P.A.R.T.A&theme=default&hide_border=true" alt="S.P.A.R.T.A"/>
+</picture>
+</a>
+<a href="https://github.com/EkaaPrawiraa/AXIS_chatbot">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=AXIS_chatbot&theme=tokyonight&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=EkaaPrawiraa&repo=AXIS_chatbot&theme=default&hide_border=true" alt="AXIS_chatbot"/>
+</picture>
+</a>
 </p>
-
 
 
 <p align="center"><sub>More on my <a href="https://github.com/EkaaPrawiraa?tab=repositories">repositories page</a> →</sub></p>
 
-<!-- 
-## Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
--->
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=EkaaPrawiraa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Eka's%20Stats#gh-dark-mode-only" alt="GitHub Stats"/>
-<img src="https://github-stats-extended.vercel.app/api?username=EkaaPrawiraa&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&custom_title=Eka's%20Stats#gh-light-mode-only" alt="GitHub Stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EkaaPrawiraa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages#gh-dark-mode-only" alt="GitHub Stats Language"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EkaaPrawiraa&layout=donut&langs_count=8&theme=default&hide_border=true&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages#gh-light-mode-only" alt="GitHub Stats Language"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=EkaaPrawiraa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EkaaPrawiraa&layout=donut&langs_count=8&theme=default&hide_border=true&hide=Jupyter%20Notebook&custom_title=Eka's%20most%20used%20languages" alt="GitHub Stats Language"/>
+</picture>
 </p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak"/>
-</p>
-<div align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
 
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=EkaaPrawiraa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Eka's%20Stats">
+<img src="https://github-stats-extended.vercel.app/api?username=EkaaPrawiraa&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&custom_title=Eka's%20Stats" alt="GitHub Stats"/>
+</picture>
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EkaaPrawiraa&theme=default&hide_border=true" alt="GitHub Streak"/>
+</picture>
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/EkaaPrawiraa/EkaaPrawiraa/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
+</picture>
+</p>
 
 
 ## ✨ Find Me On

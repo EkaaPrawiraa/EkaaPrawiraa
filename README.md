@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-🎓 Final-year CS @ ITB &nbsp;·&nbsp; 💼 AI Engineer @ Bank Indonesia &nbsp;·&nbsp; 📍 Bandung, Indonesia
+🎓 CS Graduate @ ITB &nbsp;·&nbsp; 💼 AI Engineer @ Bank Indonesia &nbsp;·&nbsp; 📍 Bandung, Indonesia
 </p>
 
 <p align="center">
